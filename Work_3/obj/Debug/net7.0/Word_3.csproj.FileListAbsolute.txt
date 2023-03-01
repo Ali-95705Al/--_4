@@ -1,0 +1,15 @@
+C:\Users\all\Desktop\C#\Дз_4\Word_3\bin\Debug\net7.0\Word_3.exe
+C:\Users\all\Desktop\C#\Дз_4\Word_3\bin\Debug\net7.0\Word_3.deps.json
+C:\Users\all\Desktop\C#\Дз_4\Word_3\bin\Debug\net7.0\Word_3.runtimeconfig.json
+C:\Users\all\Desktop\C#\Дз_4\Word_3\bin\Debug\net7.0\Word_3.dll
+C:\Users\all\Desktop\C#\Дз_4\Word_3\bin\Debug\net7.0\Word_3.pdb
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\Word_3.csproj.AssemblyReference.cache
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\Word_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\Word_3.AssemblyInfoInputs.cache
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\Word_3.AssemblyInfo.cs
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\Word_3.csproj.CoreCompileInputs.cache
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\Word_3.dll
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\refint\Word_3.dll
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\Word_3.pdb
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\Word_3.genruntimeconfig.cache
+C:\Users\all\Desktop\C#\Дз_4\Word_3\obj\Debug\net7.0\ref\Word_3.dll
